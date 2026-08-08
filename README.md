@@ -83,4 +83,4 @@ TechPath AI
 └── README.md
 
 LIVE DEMO
-https://code-alpha-tech-path-dlj7fm90i-nayana9.vercel.app?_vercel_share=V3kbdmzQq9kBSz3S2B2sbUSdMzI5uhBg
+https://code-alpha-tech-path-dlj7fm90i-nayana9.vercel.app/
