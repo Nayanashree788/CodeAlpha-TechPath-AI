@@ -1,0 +1,6 @@
+{
+  "name": "TechPath AI",
+  "description": "AI-powered college-to-industry career readiness platform for engineering students.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
